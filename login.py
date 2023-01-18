@@ -1,7 +1,3 @@
-# Login  verificacion de datos
-# No se considero inyecion por SQL u otros metodos de ingreso.
-# @autor: Magno Efren
-# Youtube: https://www.youtube.com/c/MagnoEfren
 
 from tkinter import Tk, Button, Entry, Label, ttk, PhotoImage
 from tkinter import StringVar, END, HORIZONTAL, Frame, Toplevel
