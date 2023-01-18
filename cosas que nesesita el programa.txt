@@ -1,0 +1,5 @@
+1.nesesita un menu desplegable 
+2. una barra de navegacion para striviw lista de la base da datos 
+3. una venta donde se muestre los usuarios "eliminado"
+4. idea en proseso un boton para volver a la venta anterior 
+nuevo remoto
